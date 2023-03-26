@@ -1,9 +1,8 @@
-----
+
 # Sergey Fedorov
-----
 
 ## My Contact Info
-----
+
 Photo Sergey Fedorov
 **Location:** Subotica, Serbia. Ready to relocate
 **Email:** fedorovsergei2009@yandex.ru
@@ -12,12 +11,11 @@ Photo Sergey Fedorov
 **Discord:** [segafred0](https://discordapp.com/users/1055411130597654601/)
 
 ## Summary
-----
+
 Electrical controls design engineer with 5 years expirience.
 
-
 ## Skills
-----
+
 * Javascript
 * HTML5
 * CSS3
@@ -27,7 +25,7 @@ Electrical controls design engineer with 5 years expirience.
 * Figma
 
 ## Code example
-----
+
 ```
 function even_or_odd(number) {
   if (number % 2 === 0) {
@@ -39,14 +37,14 @@ function even_or_odd(number) {
 ```
 
 ## Work experience
-____
+
 
 ## Education
-____
+
 * __Saint-Petersburg State Marine Technical University__
 
 ## Languages
------
+
 * Russian - native speaker
 * English - B2
 * Deutsch - A1
