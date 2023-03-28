@@ -3,7 +3,7 @@
 
 ## My Contact Info
 
-Photo Sergey Fedorov
+[Photo Sergey Fedorov](assets/img/photo_segafred0.JPG)
 * **Location:** Subotica, Serbia. Ready to relocate
 * **Email:** fedorovsergei2009@yandex.ru
 * **Phone:** +381 62 938 48 78
