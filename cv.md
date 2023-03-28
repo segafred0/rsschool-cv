@@ -3,7 +3,7 @@
 
 ## My Contact Info
 
-[Photo Sergey Fedorov](assets/img/photo_segafred0.JPG)
+[Photo Sergey Fedorov](https://raw.githubusercontent.com/segafred0/rsschool-cv/4a7fd0cb37605f46c75286b95c06e25a4bb097ed/assets/img/photo_segafred0.JPG)
 * **Location:** Subotica, Serbia. Ready to relocate
 * **Email:** fedorovsergei2009@yandex.ru
 * **Phone:** +381 62 938 48 78
